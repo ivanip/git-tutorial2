@@ -4,3 +4,7 @@ The -D option stands for --delete --force, which deletes the branch regardless o
 
 This is a testing for DIFF.
 Again of DIFF
+
+
+This is feature-A
+
