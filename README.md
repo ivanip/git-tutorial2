@@ -6,5 +6,9 @@ This is a testing for DIFF.
 Again of DIFF
 
 
+<<<<<<< HEAD
 This is feature-A
+=======
+Fix-B
+>>>>>>> Fix-b
 
