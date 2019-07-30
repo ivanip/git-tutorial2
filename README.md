@@ -12,3 +12,7 @@ This is feature-A
 Fix-B
 >>>>>>> Fix-b
 
+- feature-C (Modified)
+
+  And add a new line.
+
